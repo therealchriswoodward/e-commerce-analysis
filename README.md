@@ -1,5 +1,5 @@
 # E-Commerce Analysis
-Kaggle Project
+Data Source: [Kaggle](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
 
 Analyzing categorical and numeric data from an e-commerce business.
 
