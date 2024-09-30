@@ -13,3 +13,5 @@ Analyzing categorical and numeric data from an e-commerce business.
 ***
 # Table of Contents
 ## [My Notebook](https://github.com/therealchriswoodward/e-commerce-analysis/blob/main/Notebook.ipynb)
+
+My notebook shows my entire process from beginning to end. I used SQL magic to execute SQL queries to gather the data I needed from the database I created.
