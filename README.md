@@ -1,4 +1,4 @@
-# e-commerce-analysis
+# E-Commerce Analysis
 Kaggle Project
 
 Analyzing categorical and numeric data from an e-commerce business.
