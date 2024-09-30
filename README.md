@@ -40,5 +40,5 @@ The automated report is a Word document that I generated with code throughout my
 
 I am actively seeking opportunities, and would love to connect with other professionals.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]((https://www.linkedin.com/in/christopher-woodward-b24b43316/))
 
