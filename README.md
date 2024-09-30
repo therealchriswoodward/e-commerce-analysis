@@ -10,4 +10,4 @@ Analyzing categorical and numeric data from an e-commerce business.
 * Developed clear visualizations
 * Created a simple dashboard in Power BI with my dataframes
 ***
-## [My Notebook](#notebook)
+## [My Notebook](#notebook.ipynb)
