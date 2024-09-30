@@ -11,7 +11,7 @@ Analyzing categorical and numeric data from an e-commerce business.
 * Developed clear visualizations
 * Created a simple dashboard in Power BI with my dataframes
 ***
-# Table of Contents
+# * Table of Contents
 ## [My Notebook](https://github.com/therealchriswoodward/e-commerce-analysis/blob/main/Notebook.ipynb)
 
 My notebook shows my entire process from beginning to end. I used SQL magic to execute SQL queries to gather the data I needed from the database I created.
