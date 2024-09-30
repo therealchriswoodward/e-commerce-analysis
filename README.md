@@ -10,4 +10,5 @@ Analyzing categorical and numeric data from an e-commerce business.
 * Developed clear visualizations
 * Created a simple dashboard in Power BI with my dataframes
 ***
+# Table of Contents
 ## [My Notebook](https://github.com/therealchriswoodward/e-commerce-analysis/blob/main/Notebook.ipynb)
