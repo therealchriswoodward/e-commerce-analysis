@@ -9,3 +9,5 @@ Analyzing categorical and numeric data from an e-commerce business.
 * Used robust statistical methods alongside more common ones to show the difference between the two, and plotted the results side-by-side with seaborn
 * Developed clear visualizations
 * Created a simple dashboard in Power BI with my dataframes
+***
+## [My Notebook](#notebook)
