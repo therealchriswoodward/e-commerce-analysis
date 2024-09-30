@@ -36,6 +36,6 @@ The automated report is a Word document that I generated with code throughout my
 
 # Let's Connect:
 
-[My LinkedIn Profile](https://www.linkedin.com/in/christopher-woodward-b24b43316/)
+## [My LinkedIn Profile](https://www.linkedin.com/in/christopher-woodward-b24b43316/)
 
 I am actively seeking opportunities, and would love to connect with other professionals.
